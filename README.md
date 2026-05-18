@@ -32,7 +32,7 @@ abi-summer-school-project/
 Log into the cluster, then run:
 
 ```bash
-wget https://github.com/[YOUR_GITHUB_USERNAME]/abi-linux-scavenger/raw/main/ABI_summer_school_project.zip
+wget https://github.com/MaryGloria23/LINUX-UNIX-TREASURE-HUNT-2026/raw/refs/heads/main/ABI_summer_school_project.zip
 ```
 
 Unzip it:
