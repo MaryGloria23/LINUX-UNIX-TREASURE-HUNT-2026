@@ -1,4 +1,4 @@
-# ABI Summer School 2026 — Introduction to Linux Basics
+# ABI Summer School 2026: Introduction to Linux Basics
 
 ### Module 1: Linux & HPC | Day 1 
 
